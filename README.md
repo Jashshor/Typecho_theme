@@ -3,6 +3,7 @@
 改得更合适的一个typecho主题（可做示例[我的小站Avalon](http://jashshor.fun/))
 
 基于项目[typecho-theme-Minimalism](https://github.com/WarnerYang/typecho-theme-Minimalism)，然后加入了[APlayer](https://github.com/DIYgod/APlayer)播放器；
+
 #食用
 
 - 在footer.php处修改歌单id，看网易云分享链接里面的id
