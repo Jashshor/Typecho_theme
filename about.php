@@ -3,8 +3,8 @@
  * 关于
  *
  * @package custom
- * @author  Warner
- * @link 	https://github.com/WarnerYang
+ * @author  JashShor
+ * @link    https://github.com/Jashshor/Typecho_theme
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
