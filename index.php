@@ -2,10 +2,9 @@
 /**
  * 这是一款极简主义的主题，蓝白基调，优雅大方。
  * 
- * @package Typecho Minimalism Theme 
- * @author  Warner
- * @version beta
- * @link    https://github.com/WarnerYang
+ * @package custom
+ * @author  JashShor
+ * @link    https://github.com/Jashshor/Typecho_theme
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
